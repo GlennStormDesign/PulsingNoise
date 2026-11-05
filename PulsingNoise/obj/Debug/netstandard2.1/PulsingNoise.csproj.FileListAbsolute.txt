@@ -1,0 +1,10 @@
+C:\Users\glenn\Documents\Unity Projects\PulsingNoise\PulsingNoise\bin\Debug\netstandard2.1\PulsingNoise.deps.json
+C:\Users\glenn\Documents\Unity Projects\PulsingNoise\PulsingNoise\bin\Debug\netstandard2.1\PulsingNoise.dll
+C:\Users\glenn\Documents\Unity Projects\PulsingNoise\PulsingNoise\bin\Debug\netstandard2.1\PulsingNoise.pdb
+C:\Users\glenn\Documents\Unity Projects\PulsingNoise\PulsingNoise\obj\Debug\netstandard2.1\PulsingNoise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\glenn\Documents\Unity Projects\PulsingNoise\PulsingNoise\obj\Debug\netstandard2.1\PulsingNoise.AssemblyInfoInputs.cache
+C:\Users\glenn\Documents\Unity Projects\PulsingNoise\PulsingNoise\obj\Debug\netstandard2.1\PulsingNoise.AssemblyInfo.cs
+C:\Users\glenn\Documents\Unity Projects\PulsingNoise\PulsingNoise\obj\Debug\netstandard2.1\PulsingNoise.csproj.CoreCompileInputs.cache
+C:\Users\glenn\Documents\Unity Projects\PulsingNoise\PulsingNoise\obj\Debug\netstandard2.1\PulsingNoise.sourcelink.json
+C:\Users\glenn\Documents\Unity Projects\PulsingNoise\PulsingNoise\obj\Debug\netstandard2.1\PulsingNoise.dll
+C:\Users\glenn\Documents\Unity Projects\PulsingNoise\PulsingNoise\obj\Debug\netstandard2.1\PulsingNoise.pdb
